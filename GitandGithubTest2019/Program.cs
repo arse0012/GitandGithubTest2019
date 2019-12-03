@@ -10,6 +10,7 @@ namespace GitandGithubTest2019
     {
         static void Main(string[] args)
         {
+            // dette er lavet lokalt
             Console.WriteLine("Dette er en udskrivning lavet lokalt");
             Console.ReadLine();
         }
