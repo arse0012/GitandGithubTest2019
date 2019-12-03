@@ -12,6 +12,7 @@ namespace GitandGithubTest2019
         {
             // dette er lavet lokalt
             Console.WriteLine("Dette er en udskrivning lavet lokalt");
+            //dette er en komentar lavet på github serveren
             Console.ReadLine();
         }
     }
